@@ -1,0 +1,26 @@
+.color-darkblue {
+  color: var(--color-dark-blue);
+}
+
+.color-grayishblue {
+  color: var(--color-grayish-blue);
+}
+
+.font-display {
+  font: 700 1.25rem/1.3 var(--font-display);
+}
+
+.font-body {
+  font: 400 0.9375rem/1.4 var(--font-body);
+}
+
+.card-container {
+  min-height: 100vh;
+  width: 100%;
+  max-width: 376px;
+  padding: 28px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  align-items: center;
+}

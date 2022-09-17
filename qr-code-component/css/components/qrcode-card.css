@@ -1,0 +1,22 @@
+.qrcode-card {
+  background: var(--color-white);
+  border-radius: var(--radii-2);
+  padding: 16px 16px 24px 16px;
+  text-align: center;
+  box-shadow: 0px 20px 30px rgba(45, 66, 93, 0.05);
+}
+
+.qrcode-card > .image {
+  width: 100%;
+  border-radius: var(--radii-1);
+  margin-bottom: 24px;
+}
+
+.qrcode-card > .heading {
+  margin-bottom: 16px;
+  padding: 0 20px;
+}
+
+.qrcode-card > .body {
+  padding: 0 20px;
+}

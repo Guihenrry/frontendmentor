@@ -1,0 +1,7 @@
+@import './global/settings.css';
+@import './global/generic.css';
+@import './global/base.css';
+@import './global/objects.css';
+@import './global/animations.css';
+
+@import 'components/qrcode-card.css';

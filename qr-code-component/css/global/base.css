@@ -1,0 +1,9 @@
+body {
+  background-color: var(--color-light-gray);
+  font-family: var(--font-body);
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
